@@ -13,6 +13,7 @@ The project focuses on CRUD operations, UI usability, and real-world application
 - 📌 Pin notes
 - 💾 Create folder
 - 📱 Responsive UI (works on mobile & desktop)
+- 🔄 Toggle button (light/dark mode)
 
 ---
 
@@ -97,5 +98,16 @@ See postman_collection.json for the full API spec.
 
 ## 📸 Screenshots
 
-### Home Page
+### Home Page (light mode)
+
+![light mode](https://github.com/user-attachments/assets/f71aa215-ca91-4540-9707-1816411e2ab2)
+
+### Home Page (dark mode)
+
+![dark mode](https://github.com/user-attachments/assets/6324d1df-72c9-48dd-9c28-87e2e20b1b29)
+
+### Login Page
+
+![login page](https://github.com/user-attachments/assets/8374e379-a075-4628-b087-335fc83de1e6)
+
 
